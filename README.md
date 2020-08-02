@@ -1,6 +1,6 @@
-# <ruby>范狂夫<rt>van Confucia</rt></ruby>![](https://github.com/fanhan-inside/fanhan-inside/raw/master/icon_dynamic.svg)
+# <ruby>范狂夫<rt>van Confucia</rt></ruby>
 
-![](https://github.com/fanhan-inside/fanhan-inside/raw/master/seal_room.svg)&emsp;故人心似中秋月，肯为狂夫照白头。
+![](https://github.com/fanhan-inside/fanhan-inside/raw/master/icon_dynamic.svg)&emsp;故人心似中秋月，肯为狂夫照白头。
 
 <br />
 
@@ -8,7 +8,7 @@
 
 <dl>
   <dt>地理位置</dt>
-  <dd>现居北京<span style="color: darkgray;">〔或曰“国际一流和谐宜居之都”〕</span></dd>
+  <dd>现居北京<span style="color: darkgray;">〔或曰“国际一流和谐宜居之都”〕</span><img src="https://github.com/fanhan-inside/fanhan-inside/raw/master/seal_room.svg" /></dd>
   <dt>所在行业</dt>
   <dd>咨询分析</dd>
   <dt>教育经历</dt>
