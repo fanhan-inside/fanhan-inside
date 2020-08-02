@@ -1,4 +1,4 @@
-# <ruby>范狂夫<rt>van Confucia</rt>![](https://github.com/fanhan-inside/fanhan-inside/raw/master/icon_dynamic.svg)</ruby>
+# <ruby>范狂夫<rt>van Confucia</rt></ruby>![](https://github.com/fanhan-inside/fanhan-inside/raw/master/icon_dynamic.svg)
 
 ![](https://github.com/fanhan-inside/fanhan-inside/raw/master/seal_room.svg)&emsp;故人心似中秋月，肯为狂夫照白头。
 
