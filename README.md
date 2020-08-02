@@ -4,7 +4,7 @@
 
 <br />
 
-||![](seal_room.svg)|
+||![](https://github.com/fanhan-inside/fanhan-inside/raw/master/seal_room.svg)|
 |-|-|
 | **地理位置** | 现居北京<span style="color: darkgray;">〔或曰“国际一流和谐宜居之都”〕</span> |
 | **所在行业** | 咨询分析 |
@@ -12,7 +12,7 @@
 | **个人简介** | 孤苦伶仃可怜废柴草根文盲矬胖老穷光棍汉 |
 | **官方评价** | 「精神病仆街写手不入流码农数学渣」<br/>「宅男黑客活雷锋烟枪酒鬼」<br/>「反汉贱种中国通」<br/>「缩卵怂货窝囊废」<br/>「头顶绿得发黑」<br/>「性生活都有别人代劳」<br/>「每一个看上的美女都被后清亲王用过」<br/>…… |
 
-| 曾用名 |![](icon_dynamic.svg)|
+| 曾用名 |![](https://github.com/fanhan-inside/fanhan-inside/raw/master/icon_dynamic.svg)|
 |-|-|
 | **范客翁** | 行路八千常是客，丈夫五十未称翁。 |
 | **范骨苔** | 不令金樽映翠杓，坐待白骨生苍苔。 |
