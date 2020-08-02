@@ -1,30 +1,46 @@
-# <ruby>范狂夫<rt>van Confucia</rt></ruby>
+# <ruby>范狂夫<rt>van Confucia</rt>![](https://github.com/fanhan-inside/fanhan-inside/raw/master/icon_dynamic.svg)</ruby>
 
-&emsp;故人心似中秋月，肯为狂夫照白头。
+![](https://github.com/fanhan-inside/fanhan-inside/raw/master/seal_room.svg)&emsp;故人心似中秋月，肯为狂夫照白头。
 
 <br />
 
-||![](https://github.com/fanhan-inside/fanhan-inside/raw/master/seal_room.svg)|
-|-|-|
-| **地理位置** | 现居北京<span style="color: darkgray;">〔或曰“国际一流和谐宜居之都”〕</span> |
-| **所在行业** | 咨询分析 |
-| **教育经历** | 北京理工大学・应用数学 |
-| **个人简介** | 孤苦伶仃可怜废柴草根文盲矬胖老穷光棍汉 |
-| **官方评价** | 「精神病仆街写手不入流码农数学渣」「宅男黑客活雷锋烟枪酒鬼」「反汉贱种中国通」「缩卵怂货窝囊废」「头顶绿得发黑」「性生活都有别人代劳」「每一个看上的美女都被后清亲王用过」…… |
+## 概况
 
-| 曾用名 |![](https://github.com/fanhan-inside/fanhan-inside/raw/master/icon_dynamic.svg)|
-|-|-|
-| **范客翁** | 行路八千常是客，丈夫五十未称翁。 |
-| **范骨苔** | 不令金樽映翠杓，坐待白骨生苍苔。 |
-| **范闷诗** | 清尊与闷都倾尽，倦马和诗总勒回。 |
-| **范觞杀** | 招得榴花共一觞，艾人笑杀老夫狂。 |
-| **范文简** | <ruby>勤学好问曰文，平易不懈曰简。<rt>minimalism</rt></ruby> |
-| **<ruby>范仲拙<rt><code>.f'h@N#</code></rt></ruby>** | `fANhAN iNSiDE` |
-| **<ruby>范硁然<rt>van Canyon</rt></ruby>** | 言必信，行必果，硁硁然。 |
-| **<ruby>范书藤<rt>van Schooten</rt></ruby>** ||
-| **<ruby>范翗翷<rt>van Ceulen</rt></ruby>** ||
-| **<ruby>范铝杯<rt>van Lübeck</rt></ruby>** ||
-| **………** ||
+<dl>
+  <dt>地理位置</dt>
+  <dd>现居北京<span style="color: darkgray;">〔或曰“国际一流和谐宜居之都”〕</span></dd>
+  <dt>所在行业</dt>
+  <dd>咨询分析</dd>
+  <dt>教育经历</dt>
+  <dd>北京理工大学・应用数学</dd>
+  <dt>个人简介</dt>
+  <dd>孤苦伶仃可怜废柴草根文盲矬胖老穷光棍汉</dd>
+  <dt>官方评价</dt>
+  <dd>「精神病仆街写手不入流码农数学渣」「宅男黑客活雷锋烟枪酒鬼」「反汉贱种中国通」「缩卵怂货窝囊废」「头顶绿得发黑」「性生活都有别人代劳」「每一个看上的美女都被后清亲王用过」……</dd>
+</dl>
+
+## 曾用名
+
+<dl>
+  <dt>范客翁</dt>
+  <dd>行路八千常是客，丈夫五十未称翁。</dd>
+  <dt>范骨苔</dt>
+  <dd>不令金樽映翠杓，坐待白骨生苍苔。</dd>
+  <dt>范闷诗</dt>
+  <dd>清尊与闷都倾尽，倦马和诗总勒回。</dd>
+  <dt>范觞杀</dt>
+  <dd>招得榴花共一觞，艾人笑杀老夫狂。</dd>
+  <dt>范文简</dt>
+  <dd><ruby>勤学好问曰文，平易不懈曰简。<rt>minimalism</rt></ruby></dd>
+  <dt><ruby>范仲拙<rt><code>.f'h@N#</code></rt></ruby></dt>
+  <dd><code>fANhAN iNSiDE</code></dd>
+  <dt><ruby>范硁然<rt>van Canyon</rt></ruby></dt>
+  <dd>言必信，行必果，硁硁然。</dd>
+  <dt><ruby>范书藤<rt>van Schooten</rt></ruby></dt>
+  <dt><ruby>范翗翷<rt>van Ceulen</rt></ruby></dt>
+  <dt><ruby>范铝杯<rt>van Lübeck</rt></ruby></dt>
+  <dt>………</dt>
+</dl>
 
 ***
 
