@@ -44,7 +44,7 @@
 
 ***
 
-留言请移步：[博客讨论区](https://github.com/fanhan-inside/fanhan-inside.github.io/issues)
+留言请移步：博客[讨论区](https://github.com/fanhan-inside/fanhan-inside.github.io/issues)和/或[真·讨论区](https://github.com/fanhan-inside/fanhan-inside.github.io/discussions)
 
 免责声明例：
 
